@@ -1,0 +1,227 @@
+[
+  {
+    "name": "Persimmon",
+    "id": 1,
+    "family": "Ebenaceae",
+    "order": "Rosales",
+    "genus": "Diospyros",
+    "image": "https://www.simplyrecipes.com/thmb/5g-oYpnNXAEXSRBd7oSl8olGWL0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2005__11__fuyu-and-hachiya-persimmons-horiz-a-1800-09c7338b83214952a217540f17dfef49.jpg",
+    "nutritions": {
+      "calories": 81,
+      "fat": 0.0,
+      "sugar": 18.0,
+      "carbohydrates": 18.0,
+      "protein": 0.0
+    }
+  },
+  {
+    "name": "Strawberry",
+    "id": 2,
+    "family": "Rosaceae",
+    "order": "Rosales",
+    "genus": "Fragaria",
+    "image": "https://www.allrecipes.com/thmb/1c99SWam7_FM6vUzpDDzIKffMR4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-strawberry-fruit-or-vegetable-f6dd901427714e46af2d706a57b9016f.jpg",
+    "nutritions": {
+      "calories": 29,
+      "fat": 0.4,
+      "sugar": 5.4,
+      "carbohydrates": 5.5,
+      "protein": 0.8
+    }
+  },
+  {
+    "name": "Banana",
+    "id": 3,
+    "family": "Musaceae",
+    "order": "Zingiberales",
+    "genus": "Musa",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/bananas-royalty-free-image-1702061943.jpg",
+    "nutritions": {
+      "calories": 96,
+      "fat": 0.2,
+      "sugar": 17.2,
+      "carbohydrates": 22.0,
+      "protein": 1.0
+    }
+  },
+  {
+    "name": "Tomato",
+    "id": 4,
+    "family": "Solanaceae",
+    "order": "Solanales",
+    "genus": "Solanum",
+    "image": "https://www.marthastewart.com/thmb/lQdni99TYpIaX8ydXXQTDsMluB4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ms-tomatoes-getty-de1102f163ac4aac924d1dc7e2bc8950.jpg",
+    "nutritions": {
+      "calories": 74,
+      "fat": 0.2,
+      "sugar": 2.6,
+      "carbohydrates": 3.9,
+      "protein": 0.9
+    }
+  },
+  {
+    "name": "Durian",
+    "id": 5,
+    "family": "Malvaceae",
+    "order": "Malvales",
+    "genus": "Durio",
+    "image": "https://www.ladybirdnursery.com.au/wp-content/uploads/Durian-Fruit-Trees-1.jpg",
+    "nutritions": {
+      "calories": 147,
+      "fat": 5.3,
+      "sugar": 6.75,
+      "carbohydrates": 27.1,
+      "protein": 1.5
+    }
+  },
+  {
+    "name": "Blackberry",
+    "id": 6,
+    "family": "Rosaceae",
+    "order": "Rosales",
+    "genus": "Rubus",
+    "image": "https://cdn.mos.cms.futurecdn.net/uA3kTyqZMmdGfFXJr5fBDn.jpg",
+    "nutritions": {
+      "calories": 40,
+      "fat": 0.4,
+      "sugar": 4.5,
+      "carbohydrates": 9.0,
+      "protein": 1.3
+    }
+  },
+  {
+    "name": "Kiwi",
+    "id": 7,
+    "family": "Actinidiaceae",
+    "order": "Struthioniformes",
+    "genus": "Apteryx",
+    "image": "https://domf5oio6qrcr.cloudfront.net/medialibrary/6499/eac28f45-62cd-4e71-8d2d-8f9f0ba7088a.jpg",
+    "nutritions": {
+      "calories": 61,
+      "fat": 0.5,
+      "sugar": 9.0,
+      "carbohydrates": 15.0,
+      "protein": 1.1
+    }
+  },
+  {
+    "name": "Lychee",
+    "id": 8,
+    "family": "Sapindaceae",
+    "order": "Sapindales",
+    "genus": "Litchi",
+    "image": "https://cdn.mos.cms.futurecdn.net/By4eyDXfBVzL97PicDBdbj.jpg",
+    "nutritions": {
+      "calories": 66,
+      "fat": 0.44,
+      "sugar": 15.0,
+      "carbohydrates": 17.0,
+      "protein": 0.8
+    }
+  },
+  {
+    "name": "Pineapple",
+    "id": 9,
+    "family": "Bromeliaceae",
+    "order": "Poales",
+    "genus": "Ananas",
+    "image": "https://www.thespruceeats.com/thmb/2Pdkzy-BBOBG74eziXqSj3hwDeI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/SES-history-of-the-pineapple-1807645-343418eb3b4c41b1b956d3c702550a07.jpg",
+    "nutritions": {
+      "calories": 50,
+      "fat": 0.12,
+      "sugar": 9.85,
+      "carbohydrates": 13.12,
+      "protein": 0.54
+    }
+  },
+  {
+    "name": "Passionfruit",
+    "id": 10,
+    "family": "Passifloraceae",
+    "order": "Malpighiales",
+    "genus": "Passiflora",
+    "image": "https://www.health.com/thmb/VAp6rYEuFSjs-pr32reGxu_nflo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1304948489-2ce87241ca6943e4a3d617f74aa7aaa8.jpg",
+    "nutritions": {
+      "calories": 97,
+      "fat": 0.7,
+      "sugar": 11.2,
+      "carbohydrates": 22.4,
+      "protein": 2.2
+    }
+  },
+  {
+    "name": "Orange",
+    "id": 11,
+    "family": "Rutaceae",
+    "order": "Sapindales",
+    "genus": "Citrus",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Ambersweet_oranges.jpg/1200px-Ambersweet_oranges.jpg",
+    "nutritions": {
+      "calories": 43,
+      "fat": 0.2,
+      "sugar": 8.2,
+      "carbohydrates": 8.3,
+      "protein": 1.0
+    }
+  },
+  {
+    "name": "Raspberry",
+    "id": 12,
+    "family": "Rosaceae",
+    "order": "Rosales",
+    "genus": "Rubus",
+    "image": "https://www.yates.com.au/media/plants/fruit-and-citrus/pr-tn-fruit-raspberry.jpg",
+    "nutritions": {
+      "calories": 53,
+      "fat": 0.7,
+      "sugar": 4.4,
+      "carbohydrates": 12.0,
+      "protein": 1.2
+    }
+  },
+  {
+    "name": "Watermelon",
+    "id": 13,
+    "family": "Cucurbitaceae",
+    "order": "Cucurbitales",
+    "genus": "Citrullus",
+    "image": "https://www.india.com/wp-content/uploads/2022/05/watermelon-with-seeds.jpg",
+    "nutritions": {
+      "calories": 30,
+      "fat": 0.2,
+      "sugar": 6.0,
+      "carbohydrates": 8.0,
+      "protein": 0.6
+    }
+  },
+  {
+    "name": "Lemon",
+    "id": 14,
+    "family": "Rutaceae",
+    "order": "Sapindales",
+    "genus": "Citrus",
+    "image": "https://cdn.britannica.com/84/188484-050-F27B0049/lemons-tree.jpg",
+    "nutritions": {
+      "calories": 29,
+      "fat": 0.3,
+      "sugar": 2.5,
+      "carbohydrates": 9.0,
+      "protein": 1.1
+    }
+  },
+  {
+    "name": "Fig",
+    "id": 15,
+    "family": "Moraceae",
+    "order": "Rosales",
+    "genus": "Ficus",
+    "image": "https://cdn-prod.medicalnewstoday.com/content/images/articles/327/327207/figs-on-a-table-that-may-be-beneficial-to-health.jpg",
+    "nutritions": {
+      "calories": 74,
+      "fat": 0.3,
+      "sugar": 16.0,
+      "carbohydrates": 19.0,
+      "protein": 0.8
+    }
+  }
+]
