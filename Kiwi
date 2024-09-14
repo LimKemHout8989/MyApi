@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Kiwi",
+    "id": 7,
+    "family": "Actinidiaceae",
+    "order": "Struthioniformes",
+    "genus": "Apteryx",
+    "image": "https://domf5oio6qrcr.cloudfront.net/medialibrary/6499/eac28f45-62cd-4e71-8d2d-8f9f0ba7088a.jpg",
+    "calories": 61,
+    "fat": 0.5,
+    "sugar": 9,
+    "carbohydrates": 15,
+    "protein": 1.1
+  }
+]
