@@ -31,7 +31,7 @@
             let result;
             if (name) {
                 // If a name is provided in the query, find the fruit by name (case-insensitive)
-                result = fruits.find(f => f.name.toLowerCase() === name.toLowerCase()) || { error: "Fruit not found" };
+                result = fruits.filter(f => f.name.toLowerCase() === name.toLowerCase()) || { error: "Fruit not found" };
             } else {
                 // If no name is provided, return all fruits
                 result = fruits;
