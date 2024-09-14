@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Raspberry",
+    "id": 12,
+    "family": "Rosaceae",
+    "order": "Rosales",
+    "genus": "Rubus",
+    "image": "https://www.yates.com.au/media/plants/fruit-and-citrus/pr-tn-fruit-raspberry.jpg",
+    "calories": 53,
+    "fat": 0.7,
+    "sugar": 4.4,
+    "carbohydrates": 12,
+    "protein": 1.2
+  }
+]

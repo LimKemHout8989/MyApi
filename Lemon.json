@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Lemon",
+    "id": 14,
+    "family": "Rutaceae",
+    "order": "Sapindales",
+    "genus": "Citrus",
+    "image": "https://cdn.britannica.com/84/188484-050-F27B0049/lemons-tree.jpg",
+    "calories": 29,
+    "fat": 0.3,
+    "sugar": 2.5,
+    "carbohydrates": 9,
+    "protein": 1.1
+  }
+]

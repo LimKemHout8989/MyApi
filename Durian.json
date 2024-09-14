@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Durian",
+    "id": 5,
+    "family": "Malvaceae",
+    "order": "Malvales",
+    "genus": "Durio",
+    "image": "https://www.ladybirdnursery.com.au/wp-content/uploads/Durian-Fruit-Trees-1.jpg",
+    "calories": 147,
+    "fat": 5.3,
+    "sugar": 6.75,
+    "carbohydrates": 27.1,
+    "protein": 1.5
+  }
+]

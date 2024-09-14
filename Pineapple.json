@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Pineapple",
+    "id": 9,
+    "family": "Bromeliaceae",
+    "order": "Poales",
+    "genus": "Ananas",
+    "image": "https://www.thespruceeats.com/thmb/2Pdkzy-BBOBG74eziXqSj3hwDeI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/SES-history-of-the-pineapple-1807645-343418eb3b4c41b1b956d3c702550a07.jpg",
+    "calories": 50,
+    "fat": 0.12,
+    "sugar": 9.85,
+    "carbohydrates": 13.12,
+    "protein": 0.54
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Strawberry",
+    "id": 2,
+    "family": "Rosaceae",
+    "order": "Rosales",
+    "genus": "Fragaria",
+    "image": "https://www.allrecipes.com/thmb/1c99SWam7_FM6vUzpDDzIKffMR4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-strawberry-fruit-or-vegetable-f6dd901427714e46af2d706a57b9016f.jpg",
+    "calories": 29,
+    "fat": 0.4,
+    "sugar": 5.4,
+    "carbohydrates": 5.5,
+    "protein": 0.8
+  }
+]

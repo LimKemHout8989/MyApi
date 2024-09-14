@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Fig",
+    "id": 15,
+    "family": "Moraceae",
+    "order": "Rosales",
+    "genus": "Ficus",
+    "image": "https://cdn-prod.medicalnewstoday.com/content/images/articles/327/327207/figs-on-a-table-that-may-be-beneficial-to-health.jpg",
+    "calories": 74,
+    "fat": 0.3,
+    "sugar": 16,
+    "carbohydrates": 19,
+    "protein": 0.8
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Tomato",
+    "id": 4,
+    "family": "Solanaceae",
+    "order": "Solanales",
+    "genus": "Solanum",
+    "image": "https://www.marthastewart.com/thmb/lQdni99TYpIaX8ydXXQTDsMluB4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ms-tomatoes-getty-de1102f163ac4aac924d1dc7e2bc8950.jpg",
+    "calories": 74,
+    "fat": 0.2,
+    "sugar": 2.6,
+    "carbohydrates": 3.9,
+    "protein": 0.9
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Watermelon",
+    "id": 13,
+    "family": "Cucurbitaceae",
+    "order": "Cucurbitales",
+    "genus": "Citrullus",
+    "image": "https://www.india.com/wp-content/uploads/2022/05/watermelon-with-seeds.jpg",
+    "calories": 30,
+    "fat": 0.2,
+    "sugar": 6,
+    "carbohydrates": 8,
+    "protein": 0.6
+  }
+]

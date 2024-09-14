@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Lychee",
+    "id": 8,
+    "family": "Sapindaceae",
+    "order": "Sapindales",
+    "genus": "Litchi",
+    "image": "https://cdn.mos.cms.futurecdn.net/By4eyDXfBVzL97PicDBdbj.jpg",
+    "calories": 66,
+    "fat": 0.44,
+    "sugar": 15,
+    "carbohydrates": 17,
+    "protein": 0.8
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Blackberry",
+    "id": 6,
+    "family": "Rosaceae",
+    "order": "Rosales",
+    "genus": "Rubus",
+    "image": "https://cdn.mos.cms.futurecdn.net/uA3kTyqZMmdGfFXJr5fBDn.jpg",
+    "calories": 40,
+    "fat": 0.4,
+    "sugar": 4.5,
+    "carbohydrates": 9,
+    "protein": 1.3
+  }
+]
