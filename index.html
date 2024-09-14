@@ -31,13 +31,9 @@
                 result = fruits;
             }
 
-            // Convert result object to string, then parse it using JSON.parse
-            const resultString = JSON.stringify(result, null, 2);
-            const parsedResult = JSON.parse(resultString); // This will parse the string back to an object
-
-            // Display the parsed result as JSON string
-            document.getElementById('result').innerText = JSON.stringify(parsedResult, null, 2);
-            console.log(parsedResult);
+            // Stringify the result with proper formatting (no <br> tags)
+            document.getElementById('result').textContent = JSON.stringify(result, null, 2);  // Use textContent instead of innerText
+            console.log(result); // For debugging
         }
 
         // Call the function to fetch and display the result
