@@ -10,7 +10,8 @@
     "fat": 0.0,
     "sugar": 18.0,
     "carbohydrates": 18.0,
-    "protein": 0.0
+    "protein": 0.0,
+    "description": "Persimmons are known for their vibrant orange color and sweet, honey-like flavor. They are typically eaten raw when fully ripe and have a jelly-like texture inside. High in vitamins A and C, persimmons are also rich in dietary fiber and antioxidants."
   },
   {
     "name": "Strawberry",
@@ -23,7 +24,8 @@
     "fat": 0.4,
     "sugar": 5.4,
     "carbohydrates": 5.5,
-    "protein": 0.8
+    "protein": 0.8,
+    "description": "Strawberries are bright red fruits known for their juicy sweetness and slightly tart flavor. Packed with vitamins C and K, fiber, and antioxidants, strawberries are excellent for heart health and can boost your immune system."
   },
   {
     "name": "Banana",
@@ -36,7 +38,8 @@
     "fat": 0.2,
     "sugar": 17.2,
     "carbohydrates": 22.0,
-    "protein": 1.0
+    "protein": 1.0,
+    "description": "Bananas are a popular tropical fruit known for their creamy texture and naturally sweet taste. They are rich in potassium, making them beneficial for maintaining healthy blood pressure levels. Bananas are also a great source of energy."
   },
   {
     "name": "Tomato",
@@ -49,7 +52,8 @@
     "fat": 0.2,
     "sugar": 2.6,
     "carbohydrates": 3.9,
-    "protein": 0.9
+    "protein": 0.9,
+    "description": "Tomatoes are a versatile fruit widely used in cooking, often mistaken for vegetables. They are high in vitamin C, potassium, and lycopene, an antioxidant linked to numerous health benefits, including reduced risk of heart disease."
   },
   {
     "name": "Durian",
@@ -62,7 +66,8 @@
     "fat": 5.3,
     "sugar": 6.75,
     "carbohydrates": 27.1,
-    "protein": 1.5
+    "protein": 1.5,
+    "description": "Durian is often called the 'king of fruits' due to its strong smell and custard-like texture. While the odor can be off-putting, its rich and creamy flavor is beloved by many. Durian is high in calories, healthy fats, and provides a boost of energy."
   },
   {
     "name": "Blackberry",
@@ -75,7 +80,8 @@
     "fat": 0.4,
     "sugar": 4.5,
     "carbohydrates": 9.0,
-    "protein": 1.3
+    "protein": 1.3,
+    "description": "Blackberries are small, dark-colored fruits with a slightly tart flavor. They are rich in vitamin C, fiber, and antioxidants, which promote heart health and reduce inflammation. Blackberries are also known for their high levels of anthocyanins."
   },
   {
     "name": "Kiwi",
@@ -88,7 +94,8 @@
     "fat": 0.5,
     "sugar": 9.0,
     "carbohydrates": 15.0,
-    "protein": 1.1
+    "protein": 1.1,
+    "description": "Kiwi is a small fruit with a fuzzy brown exterior and bright green or golden flesh inside. It is highly nutritious, packed with vitamins C and E, fiber, and antioxidants. Kiwi is known to aid in digestion and support immune function."
   },
   {
     "name": "Lychee",
@@ -101,7 +108,8 @@
     "fat": 0.44,
     "sugar": 15.0,
     "carbohydrates": 17.0,
-    "protein": 0.8
+    "protein": 0.8,
+    "description": "Lychee is a small tropical fruit with a rough, red exterior and sweet, juicy flesh. It's a great source of vitamin C, antioxidants, and fiber. Lychees are commonly eaten fresh or used in desserts and beverages."
   },
   {
     "name": "Pineapple",
@@ -114,7 +122,8 @@
     "fat": 0.12,
     "sugar": 9.85,
     "carbohydrates": 13.12,
-    "protein": 0.54
+    "protein": 0.54,
+    "description": "Pineapples are tropical fruits known for their sweet, tart flavor. They are rich in vitamin C, manganese, and bromelain, an enzyme that may aid digestion and reduce inflammation. Pineapples are often eaten fresh or used in juices and desserts."
   },
   {
     "name": "Passionfruit",
@@ -127,7 +136,8 @@
     "fat": 0.7,
     "sugar": 11.2,
     "carbohydrates": 22.4,
-    "protein": 2.2
+    "protein": 2.2,
+    "description": "Passionfruit is a small, round fruit with a tough purple or yellow skin and fragrant, jelly-like pulp filled with seeds. It is rich in vitamins A and C, fiber, and antioxidants, making it beneficial for skin health and immune function."
   },
   {
     "name": "Orange",
@@ -140,7 +150,8 @@
     "fat": 0.2,
     "sugar": 8.2,
     "carbohydrates": 8.3,
-    "protein": 1.0
+    "protein": 1.0,
+    "description": "Oranges are a well-known citrus fruit popular for their refreshing sweet-tart flavor. They are an excellent source of vitamin C and are also packed with antioxidants and fiber. Oranges support immune health and promote heart health."
   },
   {
     "name": "Raspberry",
@@ -153,7 +164,8 @@
     "fat": 0.7,
     "sugar": 4.4,
     "carbohydrates": 12.0,
-    "protein": 1.2
+    "protein": 1.2,
+    "description": "Raspberries are small red fruits with a sweet yet tangy flavor. They are packed with fiber, vitamins C and K, and antioxidants, which are beneficial for heart health and may help protect against cancer. Raspberries are commonly eaten fresh or used in jams."
   },
   {
     "name": "Watermelon",
@@ -166,7 +178,8 @@
     "fat": 0.2,
     "sugar": 6.0,
     "carbohydrates": 8.0,
-    "protein": 0.6
+    "protein": 0.6,
+    "description": "Watermelons are large, hydrating fruits with a refreshing sweetness. They are primarily composed of water and are rich in vitamins A and C, as well as antioxidants like lycopene, which may reduce inflammation and promote heart health."
   },
   {
     "name": "Lemon",
@@ -179,7 +192,8 @@
     "fat": 0.3,
     "sugar": 2.5,
     "carbohydrates": 9.0,
-    "protein": 1.1
+    "protein": 1.1,
+    "description": "Lemons are tart citrus fruits known for their bright yellow color and zesty flavor. They are packed with vitamin C, antioxidants, and flavonoids, which boost immunity and promote skin health. Lemons are widely used in cooking and beverages."
   },
   {
     "name": "Fig",
@@ -192,6 +206,7 @@
     "fat": 0.3,
     "sugar": 16.0,
     "carbohydrates": 19.0,
-    "protein": 0.8
+    "protein": 0.8,
+    "description": "Figs are sweet fruits with a chewy texture and seeds inside. They are high in fiber and antioxidants and contain essential vitamins and minerals like vitamin B6, copper, and potassium. Figs are often eaten dried or used in desserts."
   }
 ]
